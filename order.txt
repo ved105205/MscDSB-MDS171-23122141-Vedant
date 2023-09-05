@@ -1,0 +1,15 @@
+Total Order Till Date: 0
+Name: mubashir
+Phone Number: 50
+Food Price: 40
+Total qty: 8
+Total Guest: 20
+Date: 20-04-2023
+---------------------------------Total price For This Order: 320---------------------------------Total Order Till Date: 0
+Name: Vedant
+Phone Number: 701873
+Food Price: 100
+Total qty: 2
+Total Guest: 45
+Date: 12-3-30
+---------------------------------Total price For This Order: 200---------------------------------
