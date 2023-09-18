@@ -1,0 +1,24 @@
+Total Order Till Date: 1
+Total Price from Orders to Date: 3123.0
+---------------------------------
+Guest Name: dss
+Phone Number: 3323312
+Room Type: dsdf
+Room Price: 3123.0
+Total Guest: 2
+check-in-date: 2321
+check-out-date: 2313
+Total price For This Order: 3123.0
+---------------------------------
+Total Order Till Date: 2
+Total Price from Orders to Date: 35547.0
+---------------------------------
+Guest Name: dsfsf
+Phone Number: 324234242
+Room Type: dsfdf
+Room Price: 32424.0
+Total Guest: 3
+check-in-date: 23-32-23
+check-out-date: 23-23-23
+Total price For This Order: 32424.0
+---------------------------------
