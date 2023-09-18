@@ -1,0 +1,72 @@
+Total Order Till Date: 1
+Total Price from Orders to Date: 3123.0
+---------------------------------
+Guest Name: dss
+Phone Number: 3323312
+Room Type: dsdf
+Room Price: 3123.0
+Total Guest: 2
+check-in-date: 2321
+check-out-date: 2313
+Total price For This Order: 3123.0
+---------------------------------
+Total Order Till Date: 2
+Total Price from Orders to Date: 35547.0
+---------------------------------
+Guest Name: dsfsf
+Phone Number: 324234242
+Room Type: dsfdf
+Room Price: 32424.0
+Total Guest: 3
+check-in-date: 23-32-23
+check-out-date: 23-23-23
+Total price For This Order: 32424.0
+---------------------------------
+Total Order Till Date: 3
+Total Price from Orders to Date: 55547.0
+---------------------------------
+Guest Name: vdenanhhs
+Phone Number: 9898999990
+Room Type: deluc
+Room Price: 20000.0
+Total Guest: 2
+check-in-date: 22-04-2023
+check-out-date: 22-08-2023
+Total price For This Order: 20000.0
+---------------------------------
+Total Booking Till Date: 4
+Total Price from Orders to Date: 58547.0
+---------------------------------
+Guest Name: Aman
+Phone Number: 23423423
+Room Type: sdfsd
+Room Price: 3000.0
+Total Guest: 2
+check-in-date: 2
+check-out-date: 2
+Total price For This Order: 3000.0
+---------------------------------
+Total Booking Till Date: 5
+Total Price from Orders to Date: 60547.0
+---------------------------------
+Guest Name: vedant
+Phone Number: 9102843651
+Room Type: delux
+Room Price: 2000.0
+Total Guest: 2
+check-in-date: 23-04-2023
+check-out-date: 23-04-2023
+Total price For This Order: 2000.0
+---------------------------------
+Total Booking Till Date: 6
+Total Price from Orders to Date: 2406225.0
+---------------------------------
+Guest Name: .kjhgfdgh
+Phone Number: 123456789
+Room Type: 34567
+Room Price: 2345678.0
+Total Guest: 234
+check-in-date: 23456
+check-out-date: 34567
+Total price For This Order: 2345678.0
+---------------------------------
