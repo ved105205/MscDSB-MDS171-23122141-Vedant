@@ -47,26 +47,50 @@ check-out-date: 2
 Total price For This Order: 3000.0
 ---------------------------------
 Total Booking Till Date: 5
-Total Price from Orders to Date: 60547.0
+Total Price from Orders to Date: 59781.0
 ---------------------------------
-Guest Name: vedant
-Phone Number: 9102843651
-Room Type: delux
-Room Price: 2000.0
-Total Guest: 2
-check-in-date: 23-04-2023
-check-out-date: 23-04-2023
-Total price For This Order: 2000.0
+Guest Name: xcvbnm
+Phone Number: 1234
+Room Type: ac
+Room Price: 1234.0
+Total Guest: 12
+check-in-date: 24
+check-out-date: 26
+Total price For This Order: 1234.0
 ---------------------------------
 Total Booking Till Date: 6
-Total Price from Orders to Date: 2406225.0
+Total Price from Orders to Date: 72126.0
 ---------------------------------
-Guest Name: .kjhgfdgh
+Guest Name: asdfghjkl
+Phone Number: 1234567
+Room Type: ac
+Room Price: 12345.0
+Total Guest: 12
+check-in-date: 26
+check-out-date: 28
+Total price For This Order: 12345.0
+---------------------------------
+Total Booking Till Date: 7
+Total Price from Orders to Date: 84471.0
+---------------------------------
+Guest Name: sdfghjkl
+Phone Number: 12345678
+Room Type: ac
+Room Price: 12345.0
+Total Guest: 12
+check-in-date: 14
+check-out-date: 18
+Total price For This Order: 12345.0
+---------------------------------
+Total Booking Till Date: 8
+Total Price from Orders to Date: 2430149.0
+---------------------------------
+Guest Name: edrtgyuiop
 Phone Number: 123456789
-Room Type: 34567
+Room Type: 123456
 Room Price: 2345678.0
-Total Guest: 234
-check-in-date: 23456
-check-out-date: 34567
+Total Guest: 2345678
+check-in-date: 234567
+check-out-date: 3456789
 Total price For This Order: 2345678.0
 ---------------------------------

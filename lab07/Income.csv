@@ -1,0 +1,12 @@
+Amount,Category,Date,Details,Type
+10000,rental expense,22/12/2023,giving rent,Income
+20000,rental income,23/03/2023,income from house rent,Income
+1,salary ,21/04/2023,salary,Income
+20000,bonus,21/02/2023,diwali bonus,Income
+10000,reseach income,20/03/2023,reasearch,Income
+40000,Expense,23/05/2023,expense regarding household,Income
+25000,expense,23/04/2023,household expense,Expense
+40000,petrol,22/06/2023,car petrol,Expense
+35000,expense,12/04/2023,expense,Expense
+6000,utensils,08/09/2023,expense regarding medical expense,Expense
+340000,expense regarding medical operation,31/03/2023,,Expense
