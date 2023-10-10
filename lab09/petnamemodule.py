@@ -1,5 +1,7 @@
+import petname_class
+
 def main():
-    pets = Petstore()
+    pets = petname_class.Petstore()
     while True:
         print("-------Your Choices --------------")
         print("1. Admin Pannel      2. Customer Section")
@@ -10,7 +12,7 @@ def main():
             print("You Are in admin Pannel!!")
             psw = input("Enter the Password To Access: ")
 
-            if psw == "aman":
+            if psw == "12345":
                 while True:
                     print("-------Your Choices --------------")
                     print("1. Add Pet       2. View Pet")

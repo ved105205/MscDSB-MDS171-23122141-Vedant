@@ -14,7 +14,7 @@ import random
 
 
 class Petstore:
-    def _init_(self):
+    def __init__(self):
         self.storing_pets = []
 
     def generate_pet_id(self):
