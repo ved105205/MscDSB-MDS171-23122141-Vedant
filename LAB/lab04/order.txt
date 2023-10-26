@@ -1,0 +1,8 @@
+Total Order Till Date: 0
+Name: vedant
+Phone Number: 77897989798798798
+Food Price: 100
+Total qty: 45
+Total Guest: 45
+Date: 23/8/2023
+---------------------------------Total price For This Order: 4500---------------------------------
